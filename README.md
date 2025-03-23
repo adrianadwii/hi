@@ -167,7 +167,7 @@
         }
 
         function sayYes() {
-            alert("OK, let's be together till we graduate and get married! HEHEHE");
+            alert("OK, let's be together till we graduate and get married! Kalo mau kutraktir Golden Lamian bsk jumat karna aku ada voucher 6 HEHEHE");
         }
     </script>
 
