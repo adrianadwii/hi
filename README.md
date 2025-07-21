@@ -126,9 +126,9 @@
                 message.innerText = "Seperti janji, harapan, dan kesetiaan yang selalu aku pegang.";
             } else if (clickCount == 5) {
                 flowers.innerHTML = "";
-                message.innerText = "Aku kangeeen banget sama kamu!";
+                message.innerText = "Aku sayang banget dan bangga banget sama kamu!";
             } else if (clickCount == 6) {
-                message.innerText = "Aku pengen banget call lagi, main lagi, deket lagi...";
+                message.innerText = "Aku pengen banget selalu ada di setiap momen di hidup kamu";
             } else if (clickCount == 7) {
                 message.innerText = "Repotin aku untuk hal apapun, aku bersedia. Aku bakal selalu ada.";
             } else if (clickCount == 8) {
