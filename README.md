@@ -167,7 +167,7 @@
         }
 
         function sayYes() {
-            alert("OK, let's be together till forever get married!");
+            alert("OK, let's be together till forever and get married!");
         }
     </script>
 
