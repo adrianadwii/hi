@@ -128,7 +128,7 @@
                 flowers.innerHTML = "";
                 message.innerText = "Aku sayang banget dan bangga banget sama kamu!";
             } else if (clickCount == 6) {
-                message.innerText = "Aku pengen banget selalu ada di setiap momen di hidup kamu";
+                message.innerText = "Aku pengen banget selalu ada di setiap momen di hidup kamu. Semangat sidang akhir yaa sayang. Aku percaya kamu bisaaa <3";
             } else if (clickCount == 7) {
                 message.innerText = "Repotin aku untuk hal apapun, aku bersedia. Aku bakal selalu ada.";
             } else if (clickCount == 8) {
@@ -167,7 +167,7 @@
         }
 
         function sayYes() {
-            alert("OK, let's be together till we graduate and get married! Kalo mau kutraktir Golden Lamian bsk jumat karna aku ada voucher 6 HEHEHE");
+            alert("OK, let's be together till forever get married!");
         }
     </script>
 
