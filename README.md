@@ -99,7 +99,7 @@
         <p class="message" id="message"></p>
         
         <div class="choice-container" id="choice">
-            <p>Jadi, kamu mau nggak jadi pacar aku?</p>
+            <p>Kamu siap ngga buat terus sama aku??</p>
             <button id="yes" onclick="sayYes()">Yes</button>
             <button id="no" onclick="resizeYes()">No</button>
         </div>
